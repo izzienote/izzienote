@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Izzie 👋
 
 
 <h2>My tech stack</h2>
