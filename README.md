@@ -1,7 +1,7 @@
-## Hi👋
+## Hi there!👋
 
 <h3>Welcome to my page!</h3>
-<div>I'm Izzie, Front-end developer from South Korea🇰🇷</div>
+
 <h2>My tech stack</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
