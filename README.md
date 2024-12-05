@@ -1,6 +1,8 @@
 ## Hi there!👋
 
 <h3>Welcome to my page!</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=noodlewd&show_icons=true&theme=radical" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=izzienote" />
 
 <h2>My tech stack</h2>
 
