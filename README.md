@@ -1,7 +1,8 @@
 ## Hi there!👋
 
 <h3>Welcome to my page!</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=izzienote&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=izzienote&show_icons=true&theme=tokyonight"/>
+
 
 <h2>My tech stack</h2>
 
