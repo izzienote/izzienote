@@ -3,6 +3,14 @@
 <h3>Welcome to my page!</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=izzienote&show_icons=true&theme=tokyonight"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzienote&show_icons=true&theme=tokyonight)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzienote)](https://github.com/izzienote/github-readme-stats)
+<span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzienote&layout=compact)](https://github.com/izzienote/github-readme-stats)
+</span>
+
+
 
 <h2>My tech stack</h2>
 
