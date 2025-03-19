@@ -35,4 +35,4 @@
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2ur.leeje@gmail)
-[![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=izzie-note&theme=default)](https://izzie-note.tistory.com)
+[![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=izzie-note&theme=dark)](https://izzie-note.tistory.com)
