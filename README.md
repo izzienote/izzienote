@@ -1,18 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jieun's%20github&fontSize=60)
 
-## Hi there!👋
-안녕하세요! 프론트 개발자 이지은입니다.
+## 👋 Hi there!
+안녕하세요!
+저는 앞으로 꾸준히 성잘할 **프론트엔드 개발자** 이지은입니다.
 
 </br>
 
-<h3>Welcome to my page!</h3>
+<h2>🏅 Stats</h2>
+
+</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzienote)](https://github.com/izzienote/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzienote&layout=compact)](https://github.com/izzienote/github-readme-stats)
 
 </br>
 
-<h2>Tech stack</h2>
+<h2>🛠️ Tech stack</h2>
 
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -28,7 +31,20 @@
 
 </br>
 
-<h2>Blog</h2>
+<h2>✍🏻 Contact me</h2>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=izzie-note&theme=default)](https://github.com/loosie/github-readme-tistory-card)
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=izzie-note&theme=default)
+
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://izzie-note.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://izzie-note.tistory.com/"> </a>
+         <a href=mailto:2ur.leeje@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:2ur.leeje@gmail.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fㅓㅑ%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
 
