@@ -83,8 +83,6 @@ and gain a deeper understanding of service architecture.
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzienote)](https://github.com/izzienote/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzienote&layout=compact)](https://github.com/izzienote/github-readme-stats)
 
 </br>
 
