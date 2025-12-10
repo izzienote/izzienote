@@ -1,8 +1,40 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jieun's%20github&fontSize=60)
 
-## 👋 Hi there!
-안녕하세요!
-저는 실무 중심의 성장을 추구하는 **프론트엔드 개발자** 이지은입니다.
+## 👋 Hi, I'm Jieun Lee  
+
+건축·인테리어 필드에서 7년간 프로젝트를 리딩하며 쌓은  
+이해·기획·설계 능력을 바탕으로 **풀스택 개발자로 성장 중인 이지은**입니다.
+
+프론트엔드 기획·디자인·개발을 직접 수행하며 서비스 전체 흐름을 경험했고,  
+현재는 백엔드까지 확장하며 더욱 깊은 기술적 기반을 쌓고 있습니다.
+
+---
+
+## 🔥 About Me  
+- 기획 → 디자인 → 개발까지 전 주기를 경험한 실무형 개발자  
+- 스타트업 환경에서 실제 서비스를 end-to-end로 구축  
+- 서비스의 본질을 이해하고 구조화하는 능력이 강점  
+- 도메인 모델링, 데이터 구조 설계, UX 흐름 기획에 관심이 많음  
+
+---
+
+## 🛠 Tech Stack  
+**Frontend:** React, Next.js, TypeScript, Zustand, Tailwind CSS  
+**Backend:** NestJS, MySQL, TypeORM  
+**Others:** Git, Figma, Notion  
+
+---
+
+## 🚀 Current Focus  
+- 백엔드 심화 & 서비스 아키텍처 이해  
+- 사용자 경험 기반의 제품 개발  
+- 확장 가능한 서비스 구조 만들기  
+
+---
+
+## ✉️ Contact  
+📧 **2ur.leeje@gmail.com**  
+
 
 </br>
 
@@ -31,8 +63,6 @@
 
 </br>
 
-<h2>✍🏻 Contact me</h2>
+<h2>✍🏻 Blog</h2>
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2ur.leeje@gmail)
 [![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=izzie-note&theme=dark)](https://izzie-note.tistory.com)
