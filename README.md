@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jieun's%20github&fontSize=60)
 
 ---
-
-## 🇰🇷 Korean Version
-
 ## 👋 Hi, I'm Jieun Lee  
 
 건축·인테리어 현장에서 7년 동안 프로젝트를 리딩하며 쌓은  
